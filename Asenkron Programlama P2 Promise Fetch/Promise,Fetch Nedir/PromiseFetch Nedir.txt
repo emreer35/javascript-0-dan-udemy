@@ -1,0 +1,18 @@
+biz bir apiye istekte bulunuruz(veri alma istegi func olahbilir.) 
+1. pending durumuna geceriz.
+kendi icerisinde promise objesi olusturur kendi icerisinde ozellikleri ve methodlari bulunuyor
+pending durumunda oldugumuz icin promisin icinde 
+state = pending 
+value = undefined 
+2. veri bize promise vasitasiyla olumlu donuyor
+resolve ile verimizi donuyor 
+state = resolved , fulfilled
+value = 25      
+olumlu donerse value yi then function i ile aliriz 
+
+
+3. olumsuz sonuc reject(error) ile doner
+state = rejected
+value = error
+
+olumsuz donerse catch function i ile aliriz

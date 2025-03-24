@@ -1,0 +1,31 @@
+------ Rest api 
+1.rest api oldukca hizlidir
+2.hizli sekilde donus saglar 
+3.stateless , http isteklerinde bulunuyoruz.  rest api genellikle JSON dosyasi dondurur
+------ stateless yapi nedir ? arastir 
+cevap :
+cagrilar birbirinden habersizdir ve her cagri cevap alabilmesi icin gerekli
+verileri kullanir -- onceki istekleri kaydetmiyor sadece gonderdigi istegi gonderiyor
+bu sayede daha hizli --
+
+4.farkli programlama dilleriyle kullanilir
+5. API lerin yapisi degisebilir
+
+
+------ HTTP Istekleri
+*ENDPOINT -> https://api.example.com/posts
+GET: ENDPOINT e gore belirli verileri almak icin kullaniriz
+POST: ENDPOINT e gore belirli verileri gondermek icin kullaniriz
+PUT: ENDPOINT e gore belirli verileri guncellemek icin kullaniriz
+DELETE: ENDPOINT e gore belirli verileri silmek icin kullaniriz
+
+endpoint GET yaparsak ordaki verileri aliriz endpoint/10 10.veriyi aliriz
+endpoint POST yaparsak oraya yeni veri ekleriz
+endpoint PUT yaparsak oradaki veriyi guncelleriz
+endpoint DELETE yaparsak o veriyi sileriz
+
+
+
+
+
+

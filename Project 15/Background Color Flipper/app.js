@@ -1,0 +1,13 @@
+const colors = ["green","red","rgba(133,130,130)","#f152623","black","purple","blue","rgba(5,15,253)"]
+const btn = document.querySelector(".btn")
+const color = document.querySelector(".color")
+
+btn.addEventListener("click",function(){
+    const randomNumber = getRandomNumber()
+    // console.log(randomNumber);
+    document.body.style.background = colors[randomNumber]
+    color.textContent = colors[randomNumber]
+})
+function getRandomNumber(){
+    return Math.floor(Math.random() * colors.length)
+}

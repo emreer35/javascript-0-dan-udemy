@@ -1,0 +1,17 @@
+[
+    {
+        "name": "yunus emre" ,
+        "department": "Software Developer",
+        "salary":15000
+    },
+    {
+        "name": "sueda ovalioglu",
+        "department": "English Teacher",
+        "salary": 20000
+    },
+    {
+        "name": "faruk kocaman",
+        "department":"Bilisim",
+        "salary": 3000
+    }
+]

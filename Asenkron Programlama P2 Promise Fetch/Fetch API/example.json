@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name":"emre",
+        "age": 22,
+        "salary":3000
+    },
+    {
+        "id": 2,
+        "name":"sueda",
+        "age": 21,
+        "salary":5000
+    },
+    {
+        "id": 3,
+        "name":"kenan",
+        "age": 21,
+        "salary":2500
+    },
+    {
+        "id": 4,
+        "name":"mehmet",
+        "age": 23,
+        "salary":10000
+    }
+]

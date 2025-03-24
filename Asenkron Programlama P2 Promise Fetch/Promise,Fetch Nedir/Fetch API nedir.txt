@@ -1,0 +1,5 @@
+AJAX yerine kullanabilecegim asenkron bir veri alma veri gonderme API si
+ajax alternatif olarak kullanabiliriz.
+fetch api ajax a gore daha kolay 
+1.ozellik 
+than ve catch ozellikleri

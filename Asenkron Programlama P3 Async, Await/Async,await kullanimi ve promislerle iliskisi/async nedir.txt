@@ -1,0 +1,7 @@
+es6 ile gelen promisleri daha efektif kullanmak icin es7 ile beraber 2 anahtar kelime koyuldu
+bunlarla beraber promisleri cok guzel yonetebiliyoruz
+
+nerden calisabilirimm
+mozilla 
+javascript.info
+
